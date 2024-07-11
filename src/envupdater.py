@@ -39,7 +39,7 @@ def findenvs(
             continue
         for file in files:
             if file.endswith(suffix):
-                print(Path(root) / file)  # noqa: T201
+                print(Path(root) / file)
 
 
 @app.command()
