@@ -2,7 +2,7 @@
 
 Tiny utility to help manage lots of .env files for my own use.
 
-## Usage:
+## Usage
 
 ## Find .env files
 
